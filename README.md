@@ -19,3 +19,5 @@ This real-time chat application is built using WebSockets and a modern front-end
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/14cc0a6b-b866-4ee4-a9cf-abfc1bea754f)
+
